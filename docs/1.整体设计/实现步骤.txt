@@ -1,0 +1,15 @@
+1.  确定monthly_record_[date].json的标准输入格式
+    确定[username]_finnance_center.csv的格式
+
+2. 实现以用户名为基础的输入系统和相关文件系统
+
+3. 实现monthly_record_[date].json的导入准则并实现DateFrame的统计运算
+
+4. 将运算结果写入csv文件
+
+5. 实现核心统计结果的绘图与显示功能
+
+6. 利用Tkinter实现人机交互功能
+
+7. 利用py2exe实现软件的发布
+    

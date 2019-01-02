@@ -1,0 +1,11 @@
+录入日期：date
+持有现金：cash
+本月收入：income
+大额支出：big_cost
+信用卡待还：credit_debt
+债券市值：bond_value
+股票市值：stock_value
+成长股市值：growth_value （默认为0）
+本月投资：cur_invest
+新增债务：new_debt（默认为0）
+其他新增资产：udf_asset（默认为0）

@@ -1,0 +1,5 @@
+标准操作方法：
+
+import shutil
+
+shutil.rmtree(path)

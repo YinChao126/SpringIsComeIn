@@ -1,0 +1,4 @@
+http://blog.sina.com.cn/s/blog_6ce9ffc50102wo3u.html
+
+备注：
+一旦文件夹已经创建，无法通过上述方式来os.chmod了(此时只能手动去添加权限)
